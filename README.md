@@ -1,1 +1,2 @@
-# aull112.github.io
+# SisparLambung
+Sistem Pakar Diagnosa Penyakit Lambung
